@@ -6,7 +6,7 @@ The system balances a ball on a platform by dynamically adjusting its orientatio
 
 **Repository Contents**
 * Project Report
-* Images of setup and results
+* Images of setup
 * Demonstration Videos
 * Arduino Code (PID control implementation)
 * Circuit Diagram
